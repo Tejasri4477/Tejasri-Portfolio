@@ -76,7 +76,7 @@ A deep learning-based project for identifying poultry diseases from images using
 
 **Email:** somavaraputejasri@gmail.com
 
-**Location:** Guntur, India
+**Location:** Hyderabad, India
 
 ---
 
